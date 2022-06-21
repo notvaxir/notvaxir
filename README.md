@@ -1,4 +1,4 @@
-<p align="center"> 𝖛𝖆𝖝𝖎𝖗 <p align="center">
+<p align="center"> <h3>𝖛𝖆𝖝𝖎𝖗</h3> <p align="center">
    <br>
  
    <img src="https://komarev.com/ghpvc/?username=novaxir&color=8E64D0" alt="notvaxir" />
