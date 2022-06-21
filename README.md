@@ -1,4 +1,4 @@
-<p align="center"> <h2>𝖛𝖆𝖝𝖎𝖗<h2> <p align="center">
+<p align="center"> <h2>𝖛𝖆𝖝𝖎𝖗</h2> <p align="center">
    <br>
    <br>
 
