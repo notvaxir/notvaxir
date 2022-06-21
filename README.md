@@ -8,5 +8,7 @@
 <img src="https://c.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif">
 </p>
 <p align="center">
+   <br>
+   Currently learning JS , C++ , Rust
    
 
