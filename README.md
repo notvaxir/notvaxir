@@ -6,7 +6,7 @@
 </p>
 <p align="center">
    <br>
-   <p align="center"> 𝖛𝖆𝖝𝖎𝖗 <p align="center">
+   <p align="center"> VAXIR <p align="center">
    <br>
    <img src="https://komarev.com/ghpvc/?username=novaxir&color=grey" alt="notvaxir" />
    <br>
