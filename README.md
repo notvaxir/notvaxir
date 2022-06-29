@@ -15,7 +15,8 @@
   <img src="https://discord.c99.nl/widget/theme-4/746326780884942849.png"/>
   <br>
         <br>
-   Currently learning JS , C++ , Rust
+   
+𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗝𝗦 , 𝗖++ , 𝗥𝘂𝘀𝘁
    <br>
         <br>
         <a href="https://discord.gg/ZjmRJkHytt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="qpskJCZRvp" height="30" width="40" /></a>
