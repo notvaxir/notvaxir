@@ -8,7 +8,7 @@
    <br>
    <p align="center"> 𝖛𝖆𝖝𝖎𝖗 <p align="center">
    <br>
-   <img src="https://komarev.com/ghpvc/?username=novaxir&color=black" alt="notvaxir" />
+   <img src="https://komarev.com/ghpvc/?username=novaxir&color=purple" alt="notvaxir" />
    <br>
      <br>
       <p align="center">
